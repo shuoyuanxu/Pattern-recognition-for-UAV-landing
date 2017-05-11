@@ -1,2 +1,2 @@
-# Pattern-recognition-for-UAV-landing 
+# Pattern-detection-for-UAV-landing 
 comming soon  
